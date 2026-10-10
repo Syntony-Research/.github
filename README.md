@@ -1,2 +1,1 @@
-# .github
-Syntony Research — Evaluate. Govern. Assure. Repeat.
+Syntony Research’s public organization profile lives in [profile/README.md](profile/README.md).
